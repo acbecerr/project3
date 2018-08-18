@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+nav {
+    background-color: rgb(241, 237, 237);
+    color: black;
+    margin-bottom: 20px;
+
+}
+
+.jumbotron {
+    height: 50%;
+    background-image: url("Images/AdobeStock_166866565.jpeg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.display-5 {
+    padding-top: 8%;
+}
+
